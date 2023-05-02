@@ -1,1 +1,5 @@
-# toyproject_upbitAPI_KRW-BTC
+# 프로젝트 - upbitAPI 를 이용한 KRW-BTC 월간 시장 데이터
+## 소개
+- upbitapi 에서 제공되는 2020년 1월 ~ 2022년 12월 까지의 비트코인(KRW) 시장 데이터 입니다..
+- requests 라이브러리 를 이용하여 upbitapi에 있는 '고가 , 저가 , 누적 거래대금 , 누적 거래량' 정보를 나타냈습니다.
+- matplotlib을 사용하여 누적 거래대금을 막대그래프 형식으로 나타냈습니다.
